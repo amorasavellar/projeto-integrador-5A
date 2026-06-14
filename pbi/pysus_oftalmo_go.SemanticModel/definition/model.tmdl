@@ -1,0 +1,22 @@
+model Model
+	culture: pt-BR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["mart_ambulatorio_oftalmo","mart_hospitalar_oftalmo"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table mart_ambulatorio_oftalmo
+ref table DateTableTemplate_23994b8c-e2ec-4e36-bc5e-34a012c4335f
+ref table LocalDateTable_2f423f02-f351-4eca-823d-d4b850dbf76d
+ref table mart_hospitalar_oftalmo
+ref table LocalDateTable_3486d930-0b8b-47c3-80ac-085f6acd792e
+
+ref cultureInfo pt-BR
+
