@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "pysus_oftalmo_go"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "20933a23-7c7d-490b-b768-3c98aaa3f7a9"
+  }
+}

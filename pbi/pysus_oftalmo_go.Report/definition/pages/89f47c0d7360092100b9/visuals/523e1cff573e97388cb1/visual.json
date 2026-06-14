@@ -1,0 +1,112 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.10.0/schema.json",
+  "name": "523e1cff573e97388cb1",
+  "position": {
+    "x": 231.24087591240877,
+    "y": 178.68613138686132,
+    "z": 0,
+    "height": 344.52554744525548,
+    "width": 465.985401459854,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "mart_ambulatorio_oftalmo"
+                    }
+                  },
+                  "Property": "batch_processing"
+                }
+              },
+              "queryRef": "mart_ambulatorio_oftalmo.batch_processing",
+              "nativeQueryRef": "batch_processing"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "mart_ambulatorio_oftalmo"
+                    }
+                  },
+                  "Property": "PA_UFMUN"
+                }
+              },
+              "queryRef": "mart_ambulatorio_oftalmo.PA_UFMUN",
+              "nativeQueryRef": "PA_UFMUN"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "mart_ambulatorio_oftalmo"
+                    }
+                  },
+                  "Property": "nome_municipio"
+                }
+              },
+              "queryRef": "mart_ambulatorio_oftalmo.nome_municipio",
+              "nativeQueryRef": "nome_municipio"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "2c58361356126e30d48e",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "mart_ambulatorio_oftalmo"
+              }
+            },
+            "Property": "batch_processing"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "8bc0749a001c19e60b03",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "mart_ambulatorio_oftalmo"
+              }
+            },
+            "Property": "PA_UFMUN"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "0ee88cb933809181c224",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "mart_ambulatorio_oftalmo"
+              }
+            },
+            "Property": "nome_municipio"
+          }
+        },
+        "type": "Categorical"
+      }
+    ]
+  }
+}

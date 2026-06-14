@@ -1,0 +1,10 @@
+relationship 0c880ec1-d13b-4006-b6f1-3629e88f3a8c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: mart_ambulatorio_oftalmo.bronze_ingest_date
+	toColumn: LocalDateTable_2f423f02-f351-4eca-823d-d4b850dbf76d.Date
+
+relationship 502338eb-b584-48b2-8ea7-b1fbdfab2987
+	joinOnDateBehavior: datePartOnly
+	fromColumn: mart_hospitalar_oftalmo.bronze_ingest_date
+	toColumn: LocalDateTable_3486d930-0b8b-47c3-80ac-085f6acd792e.Date
+
