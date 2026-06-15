@@ -447,16 +447,3 @@ Licença: MIT License
 Ano: 2026
 
 ---
-
-## 📞 Suporte e Dúvidas
-
-Para dúvidas sobre o projeto:
-1. Consulte a documentação inline nos notebooks
-2. Verifique os logs no Databricks
-3. Revise os schema das tabelas nas camadas
-4. Teste conexão Power BI ↔ Databricks
-
----
-
-**Última atualização**: Junho 2026  
-**Status**: Em desenvolvimento / Production Ready
