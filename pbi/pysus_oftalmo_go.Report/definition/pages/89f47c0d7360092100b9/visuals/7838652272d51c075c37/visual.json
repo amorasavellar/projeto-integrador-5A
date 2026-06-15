@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.10.0/schema.json",
+  "name": "7838652272d51c075c37",
+  "position": {
+    "x": 16.575539568345324,
+    "y": 7.3669064748201443,
+    "z": 7003,
+    "height": 58.935251798561154,
+    "width": 799.30935251798564,
+    "tabOrder": 7003
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Visão Geral: Oftalmologia Ambulatorial (SIA) - Goiás",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI Semibold",
+                      "fontSize": "24pt"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

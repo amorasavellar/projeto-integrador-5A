@@ -1,9 +1,9 @@
 table mart_ambulatorio_oftalmo
-	lineageTag: c26f8763-2da7-47b1-9fb4-a6879ac70ae1
+	lineageTag: bbd7f453-9131-43d2-a943-d934491e9381
 
 	column PA_CODUNI
 		dataType: string
-		lineageTag: d33417fe-5e69-40fd-8ef4-3b65c91859cd
+		lineageTag: 8a4359fa-d6cf-4a65-b9e2-34bd4ecc4b3c
 		summarizeBy: none
 		sourceColumn: PA_CODUNI
 
@@ -11,7 +11,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_GESTAO
 		dataType: string
-		lineageTag: 5232f8ed-ca7c-46fc-8e4c-0ed8debaa3aa
+		lineageTag: dc022461-6ce2-49d9-80c3-d4dacdc7f6eb
 		summarizeBy: none
 		sourceColumn: PA_GESTAO
 
@@ -19,7 +19,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CONDIC
 		dataType: string
-		lineageTag: d31a6ef6-5bd1-482d-9643-c81fea447fb6
+		lineageTag: 733376e1-5c63-4c59-a1e7-8fcc086b6d5c
 		summarizeBy: none
 		sourceColumn: PA_CONDIC
 
@@ -27,7 +27,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_UFMUN
 		dataType: string
-		lineageTag: 1d9b5c6f-e07c-4521-8dac-243b9a7078e2
+		lineageTag: 240b30d7-f00a-4416-a5ff-68f1e5d7c75e
 		summarizeBy: none
 		sourceColumn: PA_UFMUN
 
@@ -35,7 +35,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_REGCT
 		dataType: string
-		lineageTag: eeb879c9-41a5-41fc-ad55-1d6f2f8be279
+		lineageTag: b2150102-f7ab-4354-8fd2-fc1692f4ad01
 		summarizeBy: none
 		sourceColumn: PA_REGCT
 
@@ -43,7 +43,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_INCOUT
 		dataType: string
-		lineageTag: 2cbca530-68e8-4e55-a433-bb790ddc31dd
+		lineageTag: b1cab2de-2c07-4e21-a887-17e43b9a97c2
 		summarizeBy: none
 		sourceColumn: PA_INCOUT
 
@@ -51,7 +51,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_INCURG
 		dataType: string
-		lineageTag: e2709daf-41a8-43f6-aaff-65dc3cde86e3
+		lineageTag: 398d92de-cbe5-4012-9dd6-f8d11b0fd301
 		summarizeBy: none
 		sourceColumn: PA_INCURG
 
@@ -59,7 +59,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_TPUPS
 		dataType: string
-		lineageTag: 7bd0a72c-1ca7-499e-9707-56bca9e9350e
+		lineageTag: 66b4b053-9bc3-4728-90df-22a1f361a94a
 		summarizeBy: none
 		sourceColumn: PA_TPUPS
 
@@ -67,7 +67,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_TIPPRE
 		dataType: string
-		lineageTag: 9ede7732-616d-428f-a7a2-1ca2acc71e91
+		lineageTag: 6a469c6b-8f6a-41cb-89ad-879c0b16320b
 		summarizeBy: none
 		sourceColumn: PA_TIPPRE
 
@@ -75,7 +75,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_MN_IND
 		dataType: string
-		lineageTag: e1551995-396b-4fba-bcb5-fd182dae6a06
+		lineageTag: d64ed42b-5eba-4cfd-babe-f44e1b9e6ff5
 		summarizeBy: none
 		sourceColumn: PA_MN_IND
 
@@ -83,7 +83,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CNPJCPF
 		dataType: string
-		lineageTag: 8701ec72-6c8f-4f1f-b852-a81be9c5dcd2
+		lineageTag: e503cd3c-50b3-440d-8775-59c71e7a1ebd
 		summarizeBy: none
 		sourceColumn: PA_CNPJCPF
 
@@ -91,7 +91,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CNPJMNT
 		dataType: string
-		lineageTag: 79d13703-dc39-4a67-974c-60f97c88f0f4
+		lineageTag: 56ac01c4-441e-466e-8a6d-5c205052fdb6
 		summarizeBy: none
 		sourceColumn: PA_CNPJMNT
 
@@ -99,7 +99,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CNPJ_CC
 		dataType: string
-		lineageTag: aa3c4c6d-718a-4601-a71f-03cec71a05b6
+		lineageTag: 8eeb9692-f0d4-4b5c-87f7-1ede6a1a7516
 		summarizeBy: none
 		sourceColumn: PA_CNPJ_CC
 
@@ -107,7 +107,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_MVM
 		dataType: string
-		lineageTag: d26937ab-b037-4d51-8995-9d27ec5385ce
+		lineageTag: f6b3dc3d-a554-47eb-a271-461f6e9439fc
 		summarizeBy: none
 		sourceColumn: PA_MVM
 
@@ -115,7 +115,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CMP
 		dataType: string
-		lineageTag: ac08760f-253a-45f7-a382-617427cb441a
+		lineageTag: 9875117f-1562-45f9-8eb0-08189d90df37
 		summarizeBy: none
 		sourceColumn: PA_CMP
 
@@ -123,7 +123,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_PROC_ID
 		dataType: string
-		lineageTag: 173fd3fa-e2bf-4ae0-8996-c04409c3fcdf
+		lineageTag: ba18fb85-bef4-44a4-b3c1-307bbcf94bb7
 		summarizeBy: none
 		sourceColumn: PA_PROC_ID
 
@@ -131,7 +131,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_TPFIN
 		dataType: string
-		lineageTag: 3c6ac527-36ef-4209-8248-629c75c25f36
+		lineageTag: 1ee57643-e0d4-43f6-b212-73af62317de5
 		summarizeBy: none
 		sourceColumn: PA_TPFIN
 
@@ -139,7 +139,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_SUBFIN
 		dataType: string
-		lineageTag: d8692501-8667-4dad-9066-884ed86537dd
+		lineageTag: 6b273cbe-6465-4d38-b875-27371857e874
 		summarizeBy: none
 		sourceColumn: PA_SUBFIN
 
@@ -147,7 +147,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_NIVCPL
 		dataType: string
-		lineageTag: ff1204e8-2ccc-4a4a-adcf-7fa064e31ea3
+		lineageTag: 520705a4-ab7d-48cc-8bf8-b14efe8c29fd
 		summarizeBy: none
 		sourceColumn: PA_NIVCPL
 
@@ -155,7 +155,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_DOCORIG
 		dataType: string
-		lineageTag: a652ac7e-cd99-4138-ade2-b20e6dc53b43
+		lineageTag: da73cdda-aa26-41f2-8c81-c38abc63f127
 		summarizeBy: none
 		sourceColumn: PA_DOCORIG
 
@@ -163,7 +163,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_AUTORIZ
 		dataType: string
-		lineageTag: 4eac0039-6a6f-4101-87e8-0770f620857c
+		lineageTag: 0810990a-4c60-47d7-8a77-127be89ad4ce
 		summarizeBy: none
 		sourceColumn: PA_AUTORIZ
 
@@ -171,7 +171,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CNSMED
 		dataType: string
-		lineageTag: f99f16ad-aa43-4216-a568-4bba07e094c0
+		lineageTag: 7191919e-d4b1-434b-9312-67b98b60d72c
 		summarizeBy: none
 		sourceColumn: PA_CNSMED
 
@@ -179,7 +179,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CBOCOD
 		dataType: string
-		lineageTag: 66932fba-eef9-445f-9123-a290b53f46e9
+		lineageTag: 3bda3e40-78fa-4ca7-a295-9474c3315181
 		summarizeBy: none
 		sourceColumn: PA_CBOCOD
 
@@ -187,7 +187,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_MOTSAI
 		dataType: string
-		lineageTag: fec0819e-2ef5-4344-bfe7-ad247fbd6a37
+		lineageTag: 0082ab21-7481-49b9-b137-ea814b212df2
 		summarizeBy: none
 		sourceColumn: PA_MOTSAI
 
@@ -195,7 +195,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_OBITO
 		dataType: string
-		lineageTag: d601b83d-aeee-4268-ab02-6790e47957dd
+		lineageTag: c836b2d8-e433-482e-8ebc-44664841d573
 		summarizeBy: none
 		sourceColumn: PA_OBITO
 
@@ -203,7 +203,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_ENCERR
 		dataType: string
-		lineageTag: 980ef351-e85a-45d1-a0c7-360752f4677d
+		lineageTag: dee6ca2a-aa49-4be3-b73a-7b7dc19b0dd1
 		summarizeBy: none
 		sourceColumn: PA_ENCERR
 
@@ -211,7 +211,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_PERMAN
 		dataType: string
-		lineageTag: 864fe11e-537a-4a78-8602-adc583ce8649
+		lineageTag: 9838686c-a988-4639-9b87-c9e9a3a2d259
 		summarizeBy: none
 		sourceColumn: PA_PERMAN
 
@@ -219,7 +219,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_ALTA
 		dataType: string
-		lineageTag: 6521dafd-fbcc-4fe4-ad9d-b8ad1002474d
+		lineageTag: 6371ac87-3fc4-4359-98aa-c74608ea545b
 		summarizeBy: none
 		sourceColumn: PA_ALTA
 
@@ -227,7 +227,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_TRANSF
 		dataType: string
-		lineageTag: 15060f74-6879-4ff8-8350-7e1a0e73f27c
+		lineageTag: 2fe3095e-da29-4a6c-8d7b-8623e4fa044f
 		summarizeBy: none
 		sourceColumn: PA_TRANSF
 
@@ -235,7 +235,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CIDPRI
 		dataType: string
-		lineageTag: ed22fbc0-938b-44f1-b421-9ecd3ef19bba
+		lineageTag: acbe03aa-29a7-44f0-8a93-e9ffcd7ab78f
 		summarizeBy: none
 		sourceColumn: PA_CIDPRI
 
@@ -243,7 +243,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CIDSEC
 		dataType: string
-		lineageTag: a30c6662-96c5-4adb-aa83-963f2de12b92
+		lineageTag: 52d13720-6800-43e4-9862-d4a598fee39e
 		summarizeBy: none
 		sourceColumn: PA_CIDSEC
 
@@ -251,7 +251,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CIDCAS
 		dataType: string
-		lineageTag: c3d0ed72-1d22-4e32-badd-0e6325cc99f6
+		lineageTag: 2a564283-bb60-4fa5-b6d2-4122e7b17606
 		summarizeBy: none
 		sourceColumn: PA_CIDCAS
 
@@ -259,23 +259,26 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CATEND
 		dataType: string
-		lineageTag: c1b05782-5f89-4634-9ede-7d59f92d04d8
+		lineageTag: 92a5508c-6223-4329-9a67-65db94ba304c
 		summarizeBy: none
 		sourceColumn: PA_CATEND
 
 		annotation SummarizationSetBy = Automatic
 
 	column PA_IDADE
-		dataType: string
-		lineageTag: 3b9eafbd-fc28-4c98-854e-3e3e1dad4d4c
-		summarizeBy: none
+		dataType: int64
+		formatString: 0
+		lineageTag: dfd2176c-87b9-43ab-9940-8ea92473feba
+		summarizeBy: sum
 		sourceColumn: PA_IDADE
+
+		changedProperty = DataType
 
 		annotation SummarizationSetBy = Automatic
 
 	column IDADEMIN
 		dataType: string
-		lineageTag: 36004bad-7f2a-4ed0-aa4c-abde4b0ca12e
+		lineageTag: d0897fa3-d864-4dd6-9967-d2e4ffb35d60
 		summarizeBy: none
 		sourceColumn: IDADEMIN
 
@@ -283,7 +286,7 @@ table mart_ambulatorio_oftalmo
 
 	column IDADEMAX
 		dataType: string
-		lineageTag: 20d58e0a-a65b-4fc3-9781-d126d250107b
+		lineageTag: 23c79c6e-834e-4ace-90fe-358af7b5357f
 		summarizeBy: none
 		sourceColumn: IDADEMAX
 
@@ -291,7 +294,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_FLIDADE
 		dataType: string
-		lineageTag: 54269ab5-d9b8-40f6-ab94-f08f3e6e2c7f
+		lineageTag: ff320abe-536e-461a-aaba-ce9839da7fcc
 		summarizeBy: none
 		sourceColumn: PA_FLIDADE
 
@@ -299,7 +302,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_SEXO
 		dataType: string
-		lineageTag: 09aafe09-b86a-413a-b50d-3342a70fcb9d
+		lineageTag: feaf3b32-02fc-426a-801e-eaa952f171db
 		summarizeBy: none
 		sourceColumn: PA_SEXO
 
@@ -307,7 +310,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_RACACOR
 		dataType: string
-		lineageTag: 2f3afc68-5b50-4f44-954c-e38a17adc6a3
+		lineageTag: cfcd7182-8ecc-4ba3-b005-df6afed46c17
 		summarizeBy: none
 		sourceColumn: PA_RACACOR
 
@@ -315,7 +318,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_MUNPCN
 		dataType: string
-		lineageTag: 7998a71b-2ef9-44a0-9d61-1601b90cc179
+		lineageTag: a0ae0b95-92be-474f-9cca-49db1cac6322
 		summarizeBy: none
 		sourceColumn: PA_MUNPCN
 
@@ -324,7 +327,7 @@ table mart_ambulatorio_oftalmo
 	column PA_QTDPRO
 		dataType: int64
 		formatString: 0
-		lineageTag: 8ad19009-4955-4372-93ec-b75a3cc25ba7
+		lineageTag: f4f470f2-1570-4852-b823-c01dfd6c5fc3
 		summarizeBy: sum
 		sourceColumn: PA_QTDPRO
 
@@ -333,7 +336,7 @@ table mart_ambulatorio_oftalmo
 	column PA_QTDAPR
 		dataType: int64
 		formatString: 0
-		lineageTag: 5b60ffe5-b396-487d-a06d-9ded7dbe9b0d
+		lineageTag: 3b047360-7c9d-47d4-b8c3-ffb903fa5093
 		summarizeBy: sum
 		sourceColumn: PA_QTDAPR
 
@@ -341,7 +344,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_VALPRO
 		dataType: double
-		lineageTag: c1630ccf-3997-487b-91b4-deb0d0d6a34b
+		lineageTag: 781485e6-fd7f-44d9-9c57-be4d5024f0c7
 		summarizeBy: sum
 		sourceColumn: PA_VALPRO
 
@@ -351,7 +354,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_VALAPR
 		dataType: double
-		lineageTag: b357b364-f6c7-4798-8b08-809ba901183d
+		lineageTag: ba86aabb-99f3-4ae6-848b-693d804c51f8
 		summarizeBy: sum
 		sourceColumn: PA_VALAPR
 
@@ -361,7 +364,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_UFDIF
 		dataType: string
-		lineageTag: b972d4e2-829d-4afd-9604-30ab72a68074
+		lineageTag: e965a853-e2c6-44ec-8fc3-425b7f7df072
 		summarizeBy: none
 		sourceColumn: PA_UFDIF
 
@@ -369,7 +372,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_MNDIF
 		dataType: string
-		lineageTag: 72aec990-9a47-415f-81de-3fcf48e3e79e
+		lineageTag: 379a34ca-477b-4545-985e-e3e676fac2e5
 		summarizeBy: none
 		sourceColumn: PA_MNDIF
 
@@ -377,7 +380,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_DIF_VAL
 		dataType: double
-		lineageTag: aecae5d1-8029-4f68-bfc6-214b75e5d09a
+		lineageTag: c28fef61-1e10-471a-af0e-44f0571a4c29
 		summarizeBy: sum
 		sourceColumn: PA_DIF_VAL
 
@@ -387,7 +390,7 @@ table mart_ambulatorio_oftalmo
 
 	column NU_VPA_TOT
 		dataType: double
-		lineageTag: dfa9cec9-b445-487c-b2d3-c746ce8a729f
+		lineageTag: 0287ad85-eb7d-42ec-a57c-c694f7b55140
 		summarizeBy: sum
 		sourceColumn: NU_VPA_TOT
 
@@ -397,7 +400,7 @@ table mart_ambulatorio_oftalmo
 
 	column NU_PA_TOT
 		dataType: double
-		lineageTag: a8789570-f7de-476d-af35-e6d39d69a275
+		lineageTag: eb2e2000-5fc7-4985-ba63-4f3492dd528d
 		summarizeBy: sum
 		sourceColumn: NU_PA_TOT
 
@@ -407,7 +410,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_INDICA
 		dataType: string
-		lineageTag: 950bf317-d780-49f3-a759-8c6c12e9ec70
+		lineageTag: 41502502-d918-4985-98aa-f7cfdbbb99ed
 		summarizeBy: none
 		sourceColumn: PA_INDICA
 
@@ -415,7 +418,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_CODOCO
 		dataType: string
-		lineageTag: b01ce580-4a0b-453e-bfb9-f8b3d2f4d0f9
+		lineageTag: 4d11df1d-43ba-450c-9d85-1da3dd05b6dd
 		summarizeBy: none
 		sourceColumn: PA_CODOCO
 
@@ -423,7 +426,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_FLQT
 		dataType: string
-		lineageTag: b7dfe9f3-1555-4355-bd5e-534fd67d40ba
+		lineageTag: 0e69b6a8-bca3-4865-b389-49c9676d94d4
 		summarizeBy: none
 		sourceColumn: PA_FLQT
 
@@ -431,7 +434,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_FLER
 		dataType: string
-		lineageTag: 64d79805-665e-4a2e-acee-eca7d527c39d
+		lineageTag: 6ac5e823-e7bb-48fa-a762-c6b5f894302c
 		summarizeBy: none
 		sourceColumn: PA_FLER
 
@@ -439,7 +442,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_ETNIA
 		dataType: string
-		lineageTag: 357e59d2-8fab-499b-bdb9-0c2b2e721ba7
+		lineageTag: 42f16b14-5533-4df5-9964-f5ac7e081e4e
 		summarizeBy: none
 		sourceColumn: PA_ETNIA
 
@@ -447,7 +450,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_VL_CF
 		dataType: double
-		lineageTag: 0d9d88dd-0fb5-45e7-bd20-2ce8d14d843c
+		lineageTag: 29f713fd-bab3-437d-84b3-652468a6d0f3
 		summarizeBy: sum
 		sourceColumn: PA_VL_CF
 
@@ -457,7 +460,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_VL_CL
 		dataType: double
-		lineageTag: 5e7ce1ac-1d50-42d0-8ff4-a648572fb924
+		lineageTag: 37a45cab-aa2f-4ad4-9904-9abf92683d96
 		summarizeBy: sum
 		sourceColumn: PA_VL_CL
 
@@ -467,7 +470,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_VL_INC
 		dataType: double
-		lineageTag: 0ddccd32-55a0-4706-976a-e61e2f8e8af0
+		lineageTag: 39892055-7168-4331-a2d0-ccb135b71bb0
 		summarizeBy: sum
 		sourceColumn: PA_VL_INC
 
@@ -477,7 +480,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_SRV_C
 		dataType: string
-		lineageTag: 2c7a1b82-4e8f-425b-98c4-025b7a4741f2
+		lineageTag: 51aef057-b742-46e1-a766-9f298b9f7cbb
 		summarizeBy: none
 		sourceColumn: PA_SRV_C
 
@@ -485,7 +488,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_INE
 		dataType: string
-		lineageTag: 19058b2f-c20a-4d93-95f5-76c716531fc0
+		lineageTag: 276f6122-1271-41ff-a159-425e640e8241
 		summarizeBy: none
 		sourceColumn: PA_INE
 
@@ -493,7 +496,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_NAT_JUR
 		dataType: string
-		lineageTag: 41e4ddf1-fa5a-4378-a88d-8df95bdbc5c8
+		lineageTag: 18ede4c8-2031-4cd7-bde6-151bc8e04003
 		summarizeBy: none
 		sourceColumn: PA_NAT_JUR
 
@@ -502,20 +505,20 @@ table mart_ambulatorio_oftalmo
 	column bronze_ingest_date
 		dataType: dateTime
 		formatString: General Date
-		lineageTag: 22c21c97-f6d9-43b4-aa88-09404d139562
+		lineageTag: 195e1fe0-f10b-475b-8f9e-48e326b6e6f1
 		summarizeBy: none
 		sourceColumn: bronze_ingest_date
 
 		variation Variation
 			isDefault
-			relationship: 0c880ec1-d13b-4006-b6f1-3629e88f3a8c
-			defaultHierarchy: LocalDateTable_2f423f02-f351-4eca-823d-d4b850dbf76d.'Hierarquia de datas'
+			relationship: e8d0e7ae-7505-49da-b77b-08454afe4eb8
+			defaultHierarchy: LocalDateTable_337d1c69-50a8-4763-bcfc-c85123db16db.'Hierarquia de datas'
 
 		annotation SummarizationSetBy = Automatic
 
 	column source_file
 		dataType: string
-		lineageTag: b9fd7754-3749-42f4-b6f6-257d9638a6ce
+		lineageTag: f72d4727-afa3-4e79-95be-587c3fb06ea9
 		summarizeBy: none
 		sourceColumn: source_file
 
@@ -523,7 +526,7 @@ table mart_ambulatorio_oftalmo
 
 	column batch_processing
 		dataType: string
-		lineageTag: f8d75d53-f8a3-4891-884c-e699df4cee65
+		lineageTag: 61812c04-8953-4417-8868-176fb445fc64
 		summarizeBy: none
 		sourceColumn: batch_processing
 
@@ -531,7 +534,7 @@ table mart_ambulatorio_oftalmo
 
 	column PA_PROC_ID_CLEAN
 		dataType: string
-		lineageTag: 1a23ef62-a658-4c86-bb10-8e62d6dbbcb5
+		lineageTag: 7073c676-4fde-4a4e-b54d-52acfe48a2fa
 		summarizeBy: none
 		sourceColumn: PA_PROC_ID_CLEAN
 
@@ -539,7 +542,7 @@ table mart_ambulatorio_oftalmo
 
 	column CO_PROCEDIMENTO
 		dataType: string
-		lineageTag: df27f883-3ccb-4f4b-a276-8df374fed5ee
+		lineageTag: 796bc35e-c574-41e1-9082-9acad34f3fcb
 		summarizeBy: none
 		sourceColumn: CO_PROCEDIMENTO
 
@@ -547,7 +550,7 @@ table mart_ambulatorio_oftalmo
 
 	column NO_PROCEDIMENTO
 		dataType: string
-		lineageTag: bad4e05a-c093-402e-b391-7dd90a202aa0
+		lineageTag: f211210a-f8a9-4238-b5c1-dd9ea3b0354a
 		summarizeBy: none
 		sourceColumn: NO_PROCEDIMENTO
 
@@ -555,7 +558,7 @@ table mart_ambulatorio_oftalmo
 
 	column DESC_COMPLEXIDADE
 		dataType: string
-		lineageTag: b09e8c42-2e60-4b81-a6d8-ee49e14f91f2
+		lineageTag: 8381b988-b0f8-49c6-ae9c-77035e6eadbf
 		summarizeBy: none
 		sourceColumn: DESC_COMPLEXIDADE
 
@@ -563,7 +566,7 @@ table mart_ambulatorio_oftalmo
 
 	column codigo_ibge_6
 		dataType: string
-		lineageTag: 5cd95528-0658-414e-b2f9-caffee5e77ac
+		lineageTag: 5d65b7e2-2142-4595-84ff-d0f30869651e
 		summarizeBy: none
 		sourceColumn: codigo_ibge_6
 
@@ -571,7 +574,7 @@ table mart_ambulatorio_oftalmo
 
 	column nome_municipio
 		dataType: string
-		lineageTag: 9ac3747e-6920-43b5-99fb-bfc63a4bd6d3
+		lineageTag: 2a4b537e-0387-4134-a901-dc0cbbf7775f
 		summarizeBy: none
 		sourceColumn: nome_municipio
 
@@ -579,7 +582,7 @@ table mart_ambulatorio_oftalmo
 
 	column latitude
 		dataType: double
-		lineageTag: 9caae187-e385-448c-96a4-412e809d236e
+		lineageTag: dee98ca1-7659-4de9-ac51-b0ce7ce67079
 		summarizeBy: sum
 		sourceColumn: latitude
 
@@ -589,13 +592,47 @@ table mart_ambulatorio_oftalmo
 
 	column longitude
 		dataType: double
-		lineageTag: 8ca425e2-62e9-4c00-b691-64e5b5555610
+		lineageTag: fbd4dc22-364f-4a70-8037-e8b52559a8ea
 		summarizeBy: sum
 		sourceColumn: longitude
 
 		annotation SummarizationSetBy = Automatic
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column PA_FNTORC
+		dataType: string
+		lineageTag: bf7fc057-6f0e-4837-bea6-1db15b1030ef
+		summarizeBy: none
+		sourceColumn: PA_FNTORC
+
+		annotation SummarizationSetBy = Automatic
+
+	column Estado = "Goias"
+		lineageTag: 76bc8e00-bdca-4352-ab68-21fef6d11a16
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column nome_municipio_limpo
+		dataType: string
+		lineageTag: 9da57316-4725-4ef8-a213-df244730d5c7
+		summarizeBy: none
+		sourceColumn: nome_municipio_limpo
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ano = LEFT(mart_ambulatorio_oftalmo[batch_processing], 4)
+		lineageTag: af35f271-91ad-42f8-b29b-15464074985d
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mes = RIGHT(mart_ambulatorio_oftalmo[batch_processing], 2)
+		lineageTag: a2865902-f31d-4013-a13e-4cf27fe14bdb
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
 
 	partition mart_ambulatorio_oftalmo = m
 		mode: import
@@ -604,7 +641,12 @@ table mart_ambulatorio_oftalmo
 				    Fonte = DatabricksMultiCloud.Catalogs("dbc-122fe3d5-0d60.cloud.databricks.com", "/sql/1.0/warehouses/84f34e4ca5b4f0e8", [Catalog=null, Database=null, QueryTags=null, EnableAutomaticProxyDiscovery=null, Implementation="2.0", Protocol=null]),
 				    oftalmo_sus_Database = Fonte{[Name="oftalmo_sus",Kind="Database"]}[Data],
 				    #"03_gold_Schema" = oftalmo_sus_Database{[Name="03_gold",Kind="Schema"]}[Data],
-				    mart_ambulatorio_oftalmo_Table = #"03_gold_Schema"{[Name="mart_ambulatorio_oftalmo",Kind="Table"]}[Data]
+				    mart_ambulatorio_oftalmo_Table = #"03_gold_Schema"{[Name="mart_ambulatorio_oftalmo",Kind="Table"]}[Data],
+				    #"Personalização Adicionada" = Table.AddColumn(mart_ambulatorio_oftalmo_Table, "nome_municipio_limpo", each Text.Upper(Text.Combine(List.ReplaceMatchingItems(Text.ToList([nome_municipio]), List.Zip({{"á","à","â","ã","ä","é","è","ê","ë","í","ì","î","ï","ó","ò","ô","õ","ö","ú","ù","û","ü","ç","Á","À","Â","Ã","Ä","É","È","Ê","Ë","Í","Ì","Î","Ï","Ó","Ò","Ô","Õ","Ö","Ú","Ù","Û","Ü","Ç"}, {"a","a","a","a","a","e","e","e","e","i","i","i","i","o","o","o","o","o","u","u","u","u","c","A","A","A","A","A","E","E","E","E","I","I","I","I","O","O","O","O","O","U","U","U","U","C"}})))))
 				in
-				    mart_ambulatorio_oftalmo_Table
+				    #"Personalização Adicionada"
+
+	annotation PBI_NavigationStepName = Navegação
+
+	annotation PBI_ResultType = Table
 
