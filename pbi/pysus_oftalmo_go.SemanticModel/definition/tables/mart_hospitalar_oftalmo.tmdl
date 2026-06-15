@@ -1,0 +1,1309 @@
+table mart_hospitalar_oftalmo
+	lineageTag: 14efe90d-f23f-43cb-8c26-ba79283da0bd
+
+	column SP_GESTOR
+		dataType: string
+		lineageTag: ec2ba2c9-75bc-4699-9c9d-35b8e604b6aa
+		summarizeBy: none
+		sourceColumn: SP_GESTOR
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_UF
+		dataType: string
+		lineageTag: b0880bf2-fa37-43ba-85a4-b4dc738b82aa
+		summarizeBy: none
+		sourceColumn: SP_UF
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_AA
+		dataType: string
+		lineageTag: edcef9e1-1585-4832-b1d4-78f1ae4572db
+		summarizeBy: none
+		sourceColumn: SP_AA
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_MM
+		dataType: string
+		lineageTag: 941c966f-4d53-452e-8188-85156889935a
+		summarizeBy: none
+		sourceColumn: SP_MM
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_CNES
+		dataType: string
+		lineageTag: ecf24563-797c-4585-9993-c0d65b5cb850
+		summarizeBy: none
+		sourceColumn: SP_CNES
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_NAIH
+		dataType: string
+		lineageTag: cb895cc8-cca4-4625-875c-5ecc4ef10020
+		summarizeBy: none
+		sourceColumn: SP_NAIH
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_PROCREA
+		dataType: string
+		lineageTag: 99151682-ab31-499c-8417-d59b6e5e5ab5
+		summarizeBy: none
+		sourceColumn: SP_PROCREA
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_DTINTER
+		dataType: string
+		lineageTag: bba2003e-cef7-4573-aace-f467d43ff502
+		summarizeBy: none
+		sourceColumn: SP_DTINTER
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_DTSAIDA
+		dataType: string
+		lineageTag: 0c22205f-39b1-4ef5-b4d9-b3e297708371
+		summarizeBy: none
+		sourceColumn: SP_DTSAIDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_NUM_PR
+		dataType: string
+		lineageTag: 0938b281-269f-4a2f-92d2-5042edc0756a
+		summarizeBy: none
+		sourceColumn: SP_NUM_PR
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_TIPO
+		dataType: string
+		lineageTag: 4c71e1e0-e409-4c7e-a2b7-a7cf4e13bb2b
+		summarizeBy: none
+		sourceColumn: SP_TIPO
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_CPFCGC
+		dataType: string
+		lineageTag: 8b0270a9-df09-427f-bfab-08c5e1017e7d
+		summarizeBy: none
+		sourceColumn: SP_CPFCGC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_ATOPROF
+		dataType: string
+		lineageTag: 99bec6f5-f7d2-4903-9409-7e46f67a2efa
+		summarizeBy: none
+		sourceColumn: SP_ATOPROF
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_TP_ATO
+		dataType: string
+		lineageTag: 99ee2822-a7ed-4603-b87d-6a44a29e1bf2
+		summarizeBy: none
+		sourceColumn: SP_TP_ATO
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_QTD_ATO
+		dataType: string
+		lineageTag: b1bcb6f8-87a9-4fbe-8a93-c0863f29096f
+		summarizeBy: none
+		sourceColumn: SP_QTD_ATO
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_PTSP
+		dataType: string
+		lineageTag: 71fa6fae-e454-4cea-90a9-0d9d9e0f676a
+		summarizeBy: none
+		sourceColumn: SP_PTSP
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_NF
+		dataType: string
+		lineageTag: 001ffdae-109e-415d-8d44-3f134c984317
+		summarizeBy: none
+		sourceColumn: SP_NF
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_VALATO
+		dataType: string
+		lineageTag: 69172440-d6ab-4878-a50e-a3b1ae4a7571
+		summarizeBy: none
+		sourceColumn: SP_VALATO
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_M_HOSP
+		dataType: string
+		lineageTag: f1dfcb26-eabd-4143-880e-3e813d19b097
+		summarizeBy: none
+		sourceColumn: SP_M_HOSP
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_M_PAC
+		dataType: string
+		lineageTag: b6f1d3ba-abf1-46ba-863d-bf34108d79a0
+		summarizeBy: none
+		sourceColumn: SP_M_PAC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_DES_HOS
+		dataType: string
+		lineageTag: e596c0b5-5037-42da-bfe6-7216531c7623
+		summarizeBy: none
+		sourceColumn: SP_DES_HOS
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_DES_PAC
+		dataType: string
+		lineageTag: c5b27ece-0387-4261-bed4-1085e80a0fc1
+		summarizeBy: none
+		sourceColumn: SP_DES_PAC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_COMPLEX
+		dataType: string
+		lineageTag: 349b1cb4-8670-4cb6-92ef-7bce458181e3
+		summarizeBy: none
+		sourceColumn: SP_COMPLEX
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_FINANC
+		dataType: string
+		lineageTag: 6a3defbc-235e-4c61-9b0d-193ea77ae8f5
+		summarizeBy: none
+		sourceColumn: SP_FINANC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_CO_FAEC
+		dataType: string
+		lineageTag: 7dc21487-d84d-4b1a-946f-0fa6cee11bf4
+		summarizeBy: none
+		sourceColumn: SP_CO_FAEC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_PF_CBO
+		dataType: string
+		lineageTag: 620186a0-03cc-4845-a45d-5fa8ab450d79
+		summarizeBy: none
+		sourceColumn: SP_PF_CBO
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_PF_DOC
+		dataType: string
+		lineageTag: 7e59b1b2-7934-414c-9eac-eaeac7ff7c6c
+		summarizeBy: none
+		sourceColumn: SP_PF_DOC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_PJ_DOC
+		dataType: string
+		lineageTag: b7186bcd-6b9c-40ea-b10d-2e2784df39b8
+		summarizeBy: none
+		sourceColumn: SP_PJ_DOC
+
+		annotation SummarizationSetBy = Automatic
+
+	column IN_TP_VAL
+		dataType: string
+		lineageTag: da9b8841-6f8a-4855-85c2-ce4ad3684cd0
+		summarizeBy: none
+		sourceColumn: IN_TP_VAL
+
+		annotation SummarizationSetBy = Automatic
+
+	column SEQUENCIA
+		dataType: string
+		lineageTag: b20513eb-9f26-45b7-a004-8110b9deeabd
+		summarizeBy: none
+		sourceColumn: SEQUENCIA
+
+		annotation SummarizationSetBy = Automatic
+
+	column REMESSA
+		dataType: string
+		lineageTag: 39e0f9d6-4541-4b91-b076-5ffba6a79bc2
+		summarizeBy: none
+		sourceColumn: REMESSA
+
+		annotation SummarizationSetBy = Automatic
+
+	column SERV_CLA
+		dataType: string
+		lineageTag: a2b1555e-388f-48e6-a937-070be5fcc7d1
+		summarizeBy: none
+		sourceColumn: SERV_CLA
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_CIDPRI
+		dataType: string
+		lineageTag: 91b24b20-f63d-4b67-9fa6-b3f56d0bcc5b
+		summarizeBy: none
+		sourceColumn: SP_CIDPRI
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_CIDSEC
+		dataType: string
+		lineageTag: 1176f504-7cf1-4dca-b3d8-88e6d2e565f0
+		summarizeBy: none
+		sourceColumn: SP_CIDSEC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_QT_PROC
+		dataType: string
+		lineageTag: 940eb4e8-fb33-4b81-9a71-f4b123d4b097
+		summarizeBy: none
+		sourceColumn: SP_QT_PROC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_U_AIH
+		dataType: string
+		lineageTag: 290533c4-1e2b-43cb-a69c-fb3aeb245a5f
+		summarizeBy: none
+		sourceColumn: SP_U_AIH
+
+		annotation SummarizationSetBy = Automatic
+
+	column bronze_ingest_date
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 5382d44a-c49d-46d1-aeee-696b4c9768b3
+		summarizeBy: none
+		sourceColumn: bronze_ingest_date
+
+		variation Variation
+			isDefault
+			relationship: 502338eb-b584-48b2-8ea7-b1fbdfab2987
+			defaultHierarchy: LocalDateTable_3486d930-0b8b-47c3-80ac-085f6acd792e.'Hierarquia de datas'
+
+		annotation SummarizationSetBy = Automatic
+
+	column source_file
+		dataType: string
+		lineageTag: e9372092-47af-4c8e-8c1c-d5bb3e61fedb
+		summarizeBy: none
+		sourceColumn: source_file
+
+		annotation SummarizationSetBy = Automatic
+
+	column batch_processing
+		dataType: string
+		lineageTag: a28311f0-1f9c-4a93-9127-b93f0bf89960
+		summarizeBy: none
+		sourceColumn: batch_processing
+
+		annotation SummarizationSetBy = Automatic
+
+	column SP_PROC
+		dataType: string
+		lineageTag: dee44238-fbd3-4216-8357-ceeec8d57ea1
+		summarizeBy: none
+		sourceColumn: SP_PROC
+
+		annotation SummarizationSetBy = Automatic
+
+	column CO_PROCEDIMENTO
+		dataType: string
+		lineageTag: 1a4cc800-118f-4731-abe0-56a69b20cd2b
+		summarizeBy: none
+		sourceColumn: CO_PROCEDIMENTO
+
+		annotation SummarizationSetBy = Automatic
+
+	column NO_PROCEDIMENTO
+		dataType: string
+		lineageTag: fd378618-8db9-4cd3-8bb9-078019a92f21
+		summarizeBy: none
+		sourceColumn: NO_PROCEDIMENTO
+
+		annotation SummarizationSetBy = Automatic
+
+	column DESC_COMPLEXIDADE
+		dataType: string
+		lineageTag: 05e2462a-e4d0-40e5-84c0-d96cba99360d
+		summarizeBy: none
+		sourceColumn: DESC_COMPLEXIDADE
+
+		annotation SummarizationSetBy = Automatic
+
+	column codigo_ibge_6
+		dataType: string
+		lineageTag: eae8adac-d81e-41ed-b7d8-505dce5d7ea4
+		summarizeBy: none
+		sourceColumn: codigo_ibge_6
+
+		annotation SummarizationSetBy = Automatic
+
+	column nome_municipio
+		dataType: string
+		lineageTag: 22b5a07e-68c5-40d6-a413-d92cd2889044
+		summarizeBy: none
+		sourceColumn: nome_municipio
+
+		annotation SummarizationSetBy = Automatic
+
+	column latitude
+		dataType: double
+		lineageTag: bfa8dff2-a171-4ba3-9841-4b2c1c210d97
+		summarizeBy: sum
+		sourceColumn: latitude
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column longitude
+		dataType: double
+		lineageTag: 8888fa2b-d07f-4733-8723-186824a816dc
+		summarizeBy: sum
+		sourceColumn: longitude
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column FONTE_ORC
+		dataType: string
+		lineageTag: 617a20ab-b87f-4a43-8a18-0cf51303c75b
+		summarizeBy: none
+		sourceColumn: FONTE_ORC
+
+		annotation SummarizationSetBy = Automatic
+
+	column UF_ZI
+		dataType: string
+		lineageTag: d3113cca-8822-4b01-9ab8-6582d48109ee
+		summarizeBy: none
+		sourceColumn: UF_ZI
+
+		annotation SummarizationSetBy = Automatic
+
+	column ANO_CMPT
+		dataType: string
+		lineageTag: 81c6d253-486c-4b35-a48d-af6a39e56760
+		summarizeBy: none
+		sourceColumn: ANO_CMPT
+
+		annotation SummarizationSetBy = Automatic
+
+	column MES_CMPT
+		dataType: string
+		lineageTag: 194d1c69-30b0-4e04-8934-f7d8dec50474
+		summarizeBy: none
+		sourceColumn: MES_CMPT
+
+		annotation SummarizationSetBy = Automatic
+
+	column ESPEC
+		dataType: string
+		lineageTag: 8b5eff9c-e3f8-4a55-a1f5-572bd29d164f
+		summarizeBy: none
+		sourceColumn: ESPEC
+
+		annotation SummarizationSetBy = Automatic
+
+	column CGC_HOSP
+		dataType: string
+		lineageTag: 9b75e18b-b9e6-4b65-ae01-9a3a2c9f1c58
+		summarizeBy: none
+		sourceColumn: CGC_HOSP
+
+		annotation SummarizationSetBy = Automatic
+
+	column N_AIH
+		dataType: string
+		lineageTag: 9bc08642-43ad-48bf-a41f-36bea02009f5
+		summarizeBy: none
+		sourceColumn: N_AIH
+
+		annotation SummarizationSetBy = Automatic
+
+	column IDENT
+		dataType: string
+		lineageTag: edcbc976-b59d-48d8-a9b0-f79bbe6dc12d
+		summarizeBy: none
+		sourceColumn: IDENT
+
+		annotation SummarizationSetBy = Automatic
+
+	column CEP
+		dataType: string
+		lineageTag: bf5bfd22-5dfe-4d3c-a8b4-7506fead0e5c
+		summarizeBy: none
+		sourceColumn: CEP
+
+		annotation SummarizationSetBy = Automatic
+
+	column MUNIC_RES
+		dataType: string
+		lineageTag: a8a84824-ded1-4fe4-8502-875223f47106
+		summarizeBy: none
+		sourceColumn: MUNIC_RES
+
+		annotation SummarizationSetBy = Automatic
+
+	column NASC
+		dataType: string
+		lineageTag: 87aa77a0-7902-43a3-ad8e-ff547b94fb6f
+		summarizeBy: none
+		sourceColumn: NASC
+
+		annotation SummarizationSetBy = Automatic
+
+	column SEXO
+		dataType: string
+		lineageTag: 99420dad-d95a-4c12-9cee-2453a1027fad
+		summarizeBy: none
+		sourceColumn: SEXO
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_MES_IN
+		dataType: string
+		lineageTag: 76e9b468-3254-484c-be4c-d16fc64209a5
+		summarizeBy: none
+		sourceColumn: UTI_MES_IN
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_MES_AN
+		dataType: string
+		lineageTag: 4d8bd7b7-5583-4781-be57-09fd0d05afef
+		summarizeBy: none
+		sourceColumn: UTI_MES_AN
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_MES_AL
+		dataType: string
+		lineageTag: 6bb3e147-ec1a-411f-837e-1307b786bc7e
+		summarizeBy: none
+		sourceColumn: UTI_MES_AL
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_MES_TO
+		dataType: string
+		lineageTag: d34288db-9576-45b5-9169-8ff953b7992a
+		summarizeBy: none
+		sourceColumn: UTI_MES_TO
+
+		annotation SummarizationSetBy = Automatic
+
+	column MARCA_UTI
+		dataType: string
+		lineageTag: fc7c9fcb-047a-4cb2-8d58-a5635b44dc48
+		summarizeBy: none
+		sourceColumn: MARCA_UTI
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_INT_IN
+		dataType: string
+		lineageTag: 93db0637-b367-49c0-be09-fffce0978668
+		summarizeBy: none
+		sourceColumn: UTI_INT_IN
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_INT_AN
+		dataType: string
+		lineageTag: 30f86b83-b7e2-4d3a-a04c-65571c0c4264
+		summarizeBy: none
+		sourceColumn: UTI_INT_AN
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_INT_AL
+		dataType: string
+		lineageTag: 74675395-d285-498d-b5da-9386f23da9b3
+		summarizeBy: none
+		sourceColumn: UTI_INT_AL
+
+		annotation SummarizationSetBy = Automatic
+
+	column UTI_INT_TO
+		dataType: string
+		lineageTag: 1eb2399d-9752-4021-9dcd-6489a1b0592d
+		summarizeBy: none
+		sourceColumn: UTI_INT_TO
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAR_ACOM
+		dataType: string
+		lineageTag: 2704cf7c-3151-456b-92cd-f633b78ca353
+		summarizeBy: none
+		sourceColumn: DIAR_ACOM
+
+		annotation SummarizationSetBy = Automatic
+
+	column QT_DIARIAS
+		dataType: string
+		lineageTag: 371e5e16-69d2-4703-aed6-2900208bc648
+		summarizeBy: none
+		sourceColumn: QT_DIARIAS
+
+		annotation SummarizationSetBy = Automatic
+
+	column PROC_SOLIC
+		dataType: string
+		lineageTag: 3ca32a9e-d724-4a8d-98dc-6f9a64669111
+		summarizeBy: none
+		sourceColumn: PROC_SOLIC
+
+		annotation SummarizationSetBy = Automatic
+
+	column PROC_REA
+		dataType: string
+		lineageTag: e2ee1b21-ad37-4969-b672-cba209d17bbf
+		summarizeBy: none
+		sourceColumn: PROC_REA
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SH
+		dataType: string
+		lineageTag: 4ac2d042-31d4-4127-bf00-45173cb4d7a5
+		summarizeBy: none
+		sourceColumn: VAL_SH
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SP
+		dataType: string
+		lineageTag: f701ccf9-5fa0-4cfa-938d-88bd9efd4ca0
+		summarizeBy: none
+		sourceColumn: VAL_SP
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SADT
+		dataType: string
+		lineageTag: 21c2a311-31fe-4883-be5c-51bb4bb0ee56
+		summarizeBy: none
+		sourceColumn: VAL_SADT
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_RN
+		dataType: string
+		lineageTag: 186b8206-a417-4ea3-8811-7f690c074eec
+		summarizeBy: none
+		sourceColumn: VAL_RN
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_ACOMP
+		dataType: string
+		lineageTag: 71fa30f6-b5d4-4854-9b5c-9121078bf421
+		summarizeBy: none
+		sourceColumn: VAL_ACOMP
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_ORTP
+		dataType: string
+		lineageTag: 4a7d98d9-f521-4682-a9c5-15bf41b8d732
+		summarizeBy: none
+		sourceColumn: VAL_ORTP
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SANGUE
+		dataType: string
+		lineageTag: 4192fadf-882f-4a1b-9e6d-3396c29cb728
+		summarizeBy: none
+		sourceColumn: VAL_SANGUE
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SADTSR
+		dataType: string
+		lineageTag: 53875941-f7cc-4a42-bfe8-a36d446aa01d
+		summarizeBy: none
+		sourceColumn: VAL_SADTSR
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_TRANSP
+		dataType: string
+		lineageTag: 2f60e364-3ae6-471e-81f1-1d3987788373
+		summarizeBy: none
+		sourceColumn: VAL_TRANSP
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_OBSANG
+		dataType: string
+		lineageTag: f5aaaa8c-5db6-42f8-949b-05edf69dff1b
+		summarizeBy: none
+		sourceColumn: VAL_OBSANG
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_PED1AC
+		dataType: string
+		lineageTag: 66020163-e80f-48e3-84f7-9372acb82d0c
+		summarizeBy: none
+		sourceColumn: VAL_PED1AC
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_TOT
+		dataType: string
+		lineageTag: 28a2a4bd-b30a-4117-9e4d-a50926a84fbb
+		summarizeBy: none
+		sourceColumn: VAL_TOT
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_UTI
+		dataType: string
+		lineageTag: 7f062525-4b39-4563-8813-7774a20a44dd
+		summarizeBy: none
+		sourceColumn: VAL_UTI
+
+		annotation SummarizationSetBy = Automatic
+
+	column US_TOT
+		dataType: string
+		lineageTag: 9734e5bd-fdbb-4b4e-b982-c06c9daf4961
+		summarizeBy: none
+		sourceColumn: US_TOT
+
+		annotation SummarizationSetBy = Automatic
+
+	column DT_INTER
+		dataType: string
+		lineageTag: beb90d7d-5bd0-4b3d-b368-4654765cf283
+		summarizeBy: none
+		sourceColumn: DT_INTER
+
+		annotation SummarizationSetBy = Automatic
+
+	column DT_SAIDA
+		dataType: string
+		lineageTag: 04ab5dcd-c5ae-4b7f-a2c2-96096ca2d6e2
+		summarizeBy: none
+		sourceColumn: DT_SAIDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAG_PRINC
+		dataType: string
+		lineageTag: 27ff8777-f5d3-48b9-b779-9cbb253f9a8e
+		summarizeBy: none
+		sourceColumn: DIAG_PRINC
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAG_SECUN
+		dataType: string
+		lineageTag: c99146c1-b2de-4f07-b76a-48ac036dd085
+		summarizeBy: none
+		sourceColumn: DIAG_SECUN
+
+		annotation SummarizationSetBy = Automatic
+
+	column COBRANCA
+		dataType: string
+		lineageTag: 9b0e3a6a-7026-4804-be93-6f0124e515bd
+		summarizeBy: none
+		sourceColumn: COBRANCA
+
+		annotation SummarizationSetBy = Automatic
+
+	column NATUREZA
+		dataType: string
+		lineageTag: b7352f7f-82c2-420c-b61b-308f014fa3f9
+		summarizeBy: none
+		sourceColumn: NATUREZA
+
+		annotation SummarizationSetBy = Automatic
+
+	column NAT_JUR
+		dataType: string
+		lineageTag: 04e5c592-dc1f-4b52-af26-d43c18af321b
+		summarizeBy: none
+		sourceColumn: NAT_JUR
+
+		annotation SummarizationSetBy = Automatic
+
+	column GESTAO
+		dataType: string
+		lineageTag: ac699208-3671-40b6-94ef-b0f42fa75437
+		summarizeBy: none
+		sourceColumn: GESTAO
+
+		annotation SummarizationSetBy = Automatic
+
+	column RUBRICA
+		dataType: string
+		lineageTag: fb1ddc68-3e26-415c-9df5-b9ccbd55f19a
+		summarizeBy: none
+		sourceColumn: RUBRICA
+
+		annotation SummarizationSetBy = Automatic
+
+	column IND_VDRL
+		dataType: string
+		lineageTag: b24637d6-4243-4264-a97b-a301e1e64c1b
+		summarizeBy: none
+		sourceColumn: IND_VDRL
+
+		annotation SummarizationSetBy = Automatic
+
+	column MUNIC_MOV
+		dataType: string
+		lineageTag: ff44e031-5ad2-4e7b-8bfe-29ab3783cc0e
+		summarizeBy: none
+		sourceColumn: MUNIC_MOV
+
+		annotation SummarizationSetBy = Automatic
+
+	column COD_IDADE
+		dataType: string
+		lineageTag: 416f0d61-4b32-4cc4-a646-14e19a201c44
+		summarizeBy: none
+		sourceColumn: COD_IDADE
+
+		annotation SummarizationSetBy = Automatic
+
+	column IDADE
+		dataType: string
+		lineageTag: 7e1c6083-a572-4e0e-8c02-6fc980a3ace9
+		summarizeBy: none
+		sourceColumn: IDADE
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAS_PERM
+		dataType: string
+		lineageTag: bf4b6760-b5f1-4877-ab53-c04d517eaa0c
+		summarizeBy: none
+		sourceColumn: DIAS_PERM
+
+		annotation SummarizationSetBy = Automatic
+
+	column MORTE
+		dataType: string
+		lineageTag: eb40f983-b7de-48c0-a5de-0ffb89983dd0
+		summarizeBy: none
+		sourceColumn: MORTE
+
+		annotation SummarizationSetBy = Automatic
+
+	column NACIONAL
+		dataType: string
+		lineageTag: cfbd14fd-2a6a-4a26-a4ff-eec5721c8a94
+		summarizeBy: none
+		sourceColumn: NACIONAL
+
+		annotation SummarizationSetBy = Automatic
+
+	column NUM_PROC
+		dataType: string
+		lineageTag: 4495ad0f-315a-4734-84bb-6595622370b1
+		summarizeBy: none
+		sourceColumn: NUM_PROC
+
+		annotation SummarizationSetBy = Automatic
+
+	column CAR_INT
+		dataType: string
+		lineageTag: ada359f5-e032-4f9b-b4a1-2154dd6573df
+		summarizeBy: none
+		sourceColumn: CAR_INT
+
+		annotation SummarizationSetBy = Automatic
+
+	column TOT_PT_SP
+		dataType: string
+		lineageTag: c311af18-fa2f-4101-99cb-21aa0685717e
+		summarizeBy: none
+		sourceColumn: TOT_PT_SP
+
+		annotation SummarizationSetBy = Automatic
+
+	column CPF_AUT
+		dataType: string
+		lineageTag: 884caa32-01fa-46bd-ba89-de6445320b03
+		summarizeBy: none
+		sourceColumn: CPF_AUT
+
+		annotation SummarizationSetBy = Automatic
+
+	column HOMONIMO
+		dataType: string
+		lineageTag: a1ba609b-9cec-47e7-aa07-77e2f0048e1f
+		summarizeBy: none
+		sourceColumn: HOMONIMO
+
+		annotation SummarizationSetBy = Automatic
+
+	column NUM_FILHOS
+		dataType: string
+		lineageTag: aef2f43b-4ea6-46fd-af6c-894d9f6f465b
+		summarizeBy: none
+		sourceColumn: NUM_FILHOS
+
+		annotation SummarizationSetBy = Automatic
+
+	column INSTRU
+		dataType: string
+		lineageTag: ae3acff0-df64-425f-a4b6-ed30bf394219
+		summarizeBy: none
+		sourceColumn: INSTRU
+
+		annotation SummarizationSetBy = Automatic
+
+	column CID_NOTIF
+		dataType: string
+		lineageTag: 9c94fa30-7646-4e8a-993c-ddd8c2ee9ea1
+		summarizeBy: none
+		sourceColumn: CID_NOTIF
+
+		annotation SummarizationSetBy = Automatic
+
+	column CONTRACEP1
+		dataType: string
+		lineageTag: 5de3bb10-425f-40c8-b87e-cca9a540a44c
+		summarizeBy: none
+		sourceColumn: CONTRACEP1
+
+		annotation SummarizationSetBy = Automatic
+
+	column CONTRACEP2
+		dataType: string
+		lineageTag: 9510e54f-62f7-406e-805d-9a83e2df0e3d
+		summarizeBy: none
+		sourceColumn: CONTRACEP2
+
+		annotation SummarizationSetBy = Automatic
+
+	column GESTRISCO
+		dataType: string
+		lineageTag: e8649781-e162-45d5-848e-ffc87b2a9d0f
+		summarizeBy: none
+		sourceColumn: GESTRISCO
+
+		annotation SummarizationSetBy = Automatic
+
+	column INSC_PN
+		dataType: string
+		lineageTag: ae7d0370-01a3-413c-858b-5009c5c63304
+		summarizeBy: none
+		sourceColumn: INSC_PN
+
+		annotation SummarizationSetBy = Automatic
+
+	column SEQ_AIH5
+		dataType: string
+		lineageTag: 10d70ebc-d1bd-4436-8860-d6c5e50563a8
+		summarizeBy: none
+		sourceColumn: SEQ_AIH5
+
+		annotation SummarizationSetBy = Automatic
+
+	column CBOR
+		dataType: string
+		lineageTag: 114bc6e2-2d63-4eaa-94c0-d6defeaf4f7f
+		summarizeBy: none
+		sourceColumn: CBOR
+
+		annotation SummarizationSetBy = Automatic
+
+	column CNAER
+		dataType: string
+		lineageTag: 83906fc9-7558-457f-b379-7dae8436e4f3
+		summarizeBy: none
+		sourceColumn: CNAER
+
+		annotation SummarizationSetBy = Automatic
+
+	column VINCPREV
+		dataType: string
+		lineageTag: c0fb56da-7335-45ac-a1ed-6719a6e185d5
+		summarizeBy: none
+		sourceColumn: VINCPREV
+
+		annotation SummarizationSetBy = Automatic
+
+	column GESTOR_COD
+		dataType: string
+		lineageTag: b8055ce9-8835-4a0f-8a37-31e4478c42bf
+		summarizeBy: none
+		sourceColumn: GESTOR_COD
+
+		annotation SummarizationSetBy = Automatic
+
+	column GESTOR_TP
+		dataType: string
+		lineageTag: 87d975fc-a316-4eb2-8e83-3e5040190ed5
+		summarizeBy: none
+		sourceColumn: GESTOR_TP
+
+		annotation SummarizationSetBy = Automatic
+
+	column GESTOR_CPF
+		dataType: string
+		lineageTag: add8318d-d41c-4cc6-b9a7-c4949fc796d2
+		summarizeBy: none
+		sourceColumn: GESTOR_CPF
+
+		annotation SummarizationSetBy = Automatic
+
+	column GESTOR_DT
+		dataType: string
+		lineageTag: 7e859003-c6d6-47f2-af38-823752681084
+		summarizeBy: none
+		sourceColumn: GESTOR_DT
+
+		annotation SummarizationSetBy = Automatic
+
+	column CNES
+		dataType: string
+		lineageTag: 39d5acc7-3ecd-4b22-acf4-caf556d15a5f
+		summarizeBy: none
+		sourceColumn: CNES
+
+		annotation SummarizationSetBy = Automatic
+
+	column CNPJ_MANT
+		dataType: string
+		lineageTag: 10fd0df4-4807-41de-8b39-0af767016c21
+		summarizeBy: none
+		sourceColumn: CNPJ_MANT
+
+		annotation SummarizationSetBy = Automatic
+
+	column INFEHOSP
+		dataType: string
+		lineageTag: d54d89ea-914e-4594-b241-b321af0be932
+		summarizeBy: none
+		sourceColumn: INFEHOSP
+
+		annotation SummarizationSetBy = Automatic
+
+	column CID_ASSO
+		dataType: string
+		lineageTag: cb293d33-bfbf-4bbe-8737-62660a48b021
+		summarizeBy: none
+		sourceColumn: CID_ASSO
+
+		annotation SummarizationSetBy = Automatic
+
+	column CID_MORTE
+		dataType: string
+		lineageTag: 1530c760-70ce-4bab-9888-ca07504b1872
+		summarizeBy: none
+		sourceColumn: CID_MORTE
+
+		annotation SummarizationSetBy = Automatic
+
+	column COMPLEX
+		dataType: string
+		lineageTag: 9ede06ef-9c4a-4d45-9ba4-0fa347ca968b
+		summarizeBy: none
+		sourceColumn: COMPLEX
+
+		annotation SummarizationSetBy = Automatic
+
+	column FINANC
+		dataType: string
+		lineageTag: f5510235-61f8-45d9-a2a2-fcb5b34f824a
+		summarizeBy: none
+		sourceColumn: FINANC
+
+		annotation SummarizationSetBy = Automatic
+
+	column FAEC_TP
+		dataType: string
+		lineageTag: 89947005-0513-4f9b-8b0d-8ef1bc36a688
+		summarizeBy: none
+		sourceColumn: FAEC_TP
+
+		annotation SummarizationSetBy = Automatic
+
+	column REGCT
+		dataType: string
+		lineageTag: b153000c-c794-46ec-9d96-1d1dcb903329
+		summarizeBy: none
+		sourceColumn: REGCT
+
+		annotation SummarizationSetBy = Automatic
+
+	column RACA_COR
+		dataType: string
+		lineageTag: 8cc4847d-5baa-488d-b5f3-14a5bffc0bfb
+		summarizeBy: none
+		sourceColumn: RACA_COR
+
+		annotation SummarizationSetBy = Automatic
+
+	column ETNIA
+		dataType: string
+		lineageTag: 47214f2f-b0aa-4b50-ad3d-5c6d0462376c
+		summarizeBy: none
+		sourceColumn: ETNIA
+
+		annotation SummarizationSetBy = Automatic
+
+	column AUD_JUST
+		dataType: string
+		lineageTag: a03ed3fc-6399-479b-9310-6b189362bd75
+		summarizeBy: none
+		sourceColumn: AUD_JUST
+
+		annotation SummarizationSetBy = Automatic
+
+	column SIS_JUST
+		dataType: string
+		lineageTag: 38e6f2f0-964b-46a5-9234-53f8ad5495b4
+		summarizeBy: none
+		sourceColumn: SIS_JUST
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SH_FED
+		dataType: string
+		lineageTag: 018e5bad-3339-4cb6-b910-c790ba685c6a
+		summarizeBy: none
+		sourceColumn: VAL_SH_FED
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SP_FED
+		dataType: string
+		lineageTag: ddb211ce-5216-479a-8fca-df03485051fd
+		summarizeBy: none
+		sourceColumn: VAL_SP_FED
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SH_GES
+		dataType: string
+		lineageTag: 0d6542d9-ed2c-48f0-ae82-582a4a121088
+		summarizeBy: none
+		sourceColumn: VAL_SH_GES
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_SP_GES
+		dataType: string
+		lineageTag: baf8460c-f1e2-40d6-b7d0-70c31ed3eb53
+		summarizeBy: none
+		sourceColumn: VAL_SP_GES
+
+		annotation SummarizationSetBy = Automatic
+
+	column VAL_UCI
+		dataType: string
+		lineageTag: 41498ced-7fc5-462b-8876-3b2d123c5737
+		summarizeBy: none
+		sourceColumn: VAL_UCI
+
+		annotation SummarizationSetBy = Automatic
+
+	column MARCA_UCI
+		dataType: string
+		lineageTag: a9419797-ce10-4aa6-a03d-82488a7b7cca
+		summarizeBy: none
+		sourceColumn: MARCA_UCI
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC1
+		dataType: string
+		lineageTag: 72a12e2e-12fa-4dfa-963c-a8c776f69274
+		summarizeBy: none
+		sourceColumn: DIAGSEC1
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC2
+		dataType: string
+		lineageTag: cd4f49fe-540b-4559-a966-b659db5b2707
+		summarizeBy: none
+		sourceColumn: DIAGSEC2
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC3
+		dataType: string
+		lineageTag: 98736c69-a13e-4fed-a2cd-298c9a91e602
+		summarizeBy: none
+		sourceColumn: DIAGSEC3
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC4
+		dataType: string
+		lineageTag: 44538f4c-c42a-4bc1-b8c1-5dd5a3190a85
+		summarizeBy: none
+		sourceColumn: DIAGSEC4
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC5
+		dataType: string
+		lineageTag: 0e6c3514-e0b8-4e54-9362-bc1d70970eb0
+		summarizeBy: none
+		sourceColumn: DIAGSEC5
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC6
+		dataType: string
+		lineageTag: efc61804-3b0f-4702-9e1e-b7c8cc0e4546
+		summarizeBy: none
+		sourceColumn: DIAGSEC6
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC7
+		dataType: string
+		lineageTag: b5b33d9d-4180-4f5c-844b-27db6f8466b6
+		summarizeBy: none
+		sourceColumn: DIAGSEC7
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC8
+		dataType: string
+		lineageTag: 29887001-dc7f-4336-bd88-41a9d08d2774
+		summarizeBy: none
+		sourceColumn: DIAGSEC8
+
+		annotation SummarizationSetBy = Automatic
+
+	column DIAGSEC9
+		dataType: string
+		lineageTag: c5e18e65-544b-4061-a354-1530351a79a9
+		summarizeBy: none
+		sourceColumn: DIAGSEC9
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC1
+		dataType: string
+		lineageTag: 13b21325-0a27-4ab7-8e42-d7fa63e3824d
+		summarizeBy: none
+		sourceColumn: TPDISEC1
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC2
+		dataType: string
+		lineageTag: cc804419-461a-4e72-a78f-66a8ab539572
+		summarizeBy: none
+		sourceColumn: TPDISEC2
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC3
+		dataType: string
+		lineageTag: bb9e8a58-b1d3-4c69-aefc-001ce1bc9b54
+		summarizeBy: none
+		sourceColumn: TPDISEC3
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC4
+		dataType: string
+		lineageTag: 20eed538-8e0a-41d1-afeb-d91060e2d825
+		summarizeBy: none
+		sourceColumn: TPDISEC4
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC5
+		dataType: string
+		lineageTag: 457c7d72-52ef-4581-8b1b-d9474e820150
+		summarizeBy: none
+		sourceColumn: TPDISEC5
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC6
+		dataType: string
+		lineageTag: 9e6eba7a-3090-4747-9715-efc1004365a1
+		summarizeBy: none
+		sourceColumn: TPDISEC6
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC7
+		dataType: string
+		lineageTag: ef1b35e7-dbff-4257-be65-693504e9fed4
+		summarizeBy: none
+		sourceColumn: TPDISEC7
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC8
+		dataType: string
+		lineageTag: ab0e0aec-b391-4475-a6df-eaad429ecad7
+		summarizeBy: none
+		sourceColumn: TPDISEC8
+
+		annotation SummarizationSetBy = Automatic
+
+	column TPDISEC9
+		dataType: string
+		lineageTag: 64e11da0-9032-4be0-89f6-7cba4ff40280
+		summarizeBy: none
+		sourceColumn: TPDISEC9
+
+		annotation SummarizationSetBy = Automatic
+
+	column nome_municipio_limpo
+		dataType: string
+		lineageTag: 8642de3c-049a-410e-b6e8-367a14deedfb
+		summarizeBy: none
+		sourceColumn: nome_municipio_limpo
+
+		annotation SummarizationSetBy = Automatic
+
+	partition mart_hospitalar_oftalmo = m
+		mode: import
+		source =
+				let
+				    Fonte = DatabricksMultiCloud.Catalogs("dbc-122fe3d5-0d60.cloud.databricks.com", "/sql/1.0/warehouses/84f34e4ca5b4f0e8", [Catalog=null, Database=null, QueryTags=null, EnableAutomaticProxyDiscovery=null, Implementation="2.0", Protocol=null]),
+				    oftalmo_sus_Database = Fonte{[Name="oftalmo_sus",Kind="Database"]}[Data],
+				    #"03_gold_Schema" = oftalmo_sus_Database{[Name="03_gold",Kind="Schema"]}[Data],
+				    mart_hospitalar_oftalmo_Table = #"03_gold_Schema"{[Name="mart_hospitalar_oftalmo",Kind="Table"]}[Data],
+				    #"Personalização Adicionada" = Table.AddColumn(mart_hospitalar_oftalmo_Table, "nome_municipio_limpo", each Text.Upper(Text.Combine(List.ReplaceMatchingItems(Text.ToList([nome_municipio]), List.Zip({{"á","à","â","ã","ä","é","è","ê","ë","í","ì","î","ï","ó","ò","ô","õ","ö","ú","ù","û","ü","ç","Á","À","Â","Ã","Ä","É","È","Ê","Ë","Í","Ì","Î","Ï","Ó","Ò","Ô","Õ","Ö","Ú","Ù","Û","Ü","Ç"}, {"a","a","a","a","a","e","e","e","e","i","i","i","i","o","o","o","o","o","u","u","u","u","c","A","A","A","A","A","E","E","E","E","I","I","I","I","O","O","O","O","O","U","U","U","U","C"}})))))
+				in
+				    #"Personalização Adicionada"
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navegação
+
