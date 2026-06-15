@@ -1,0 +1,25 @@
+table 'Medidas (2)'
+	lineageTag: 2ee041b5-32e2-4106-bb72-9320b596f17b
+
+	measure 'Count Proced' = COUNT(mart_ambulatorio_oftalmo[PA_PROC_ID])
+		formatString: #,0
+		lineageTag: aef3caa6-133e-42b0-9693-6b0def98a36a
+
+	measure 'Total Prod' = SUM(mart_ambulatorio_oftalmo[PA_VALAPR])
+		formatString: "R$"\ #,0.00;-"R$"\ #,0.00;"R$"\ #,0.00
+		lineageTag: 6bfc20b9-f7d1-4bd7-b913-491832fc52e5
+
+		annotation PBI_FormatHint = {"currencyCulture":"pt-BR"}
+
+	partition 'Medidas (2)' = m
+		mode: import
+		source =
+				let
+				    Fonte = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [#"Coluna 1" = _t]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(Fonte,{{"Coluna 1", type text}}),
+				    #"Colunas Removidas" = Table.RemoveColumns(#"Tipo Alterado",{"Coluna 1"})
+				in
+				    #"Colunas Removidas"
+
+	annotation PBI_ResultType = Table
+
